@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sunitpani
 - 👀 I’m interested in web development, AI and ML
-- 🌱 I’m currently learning HTML,CSS,PYthon,DJango
+- 🌱 I’m currently learning HTML,CSS, React ,Python,DJango
 - 💞️ I’m looking to collaborate on web development
-- 📫 Raech me at sunitpani1998@yahoo.com
+- 📫 Reach me at sunitpani1998@gmail.com
 
 <!---
 sunitpani/sunitpani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
