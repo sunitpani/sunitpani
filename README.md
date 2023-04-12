@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sunitpani
 - 👀 I’m interested in web development, AI and ML
-- 🌱 I’m currently learning HTML,CSS, React ,Python,DJango
+- 🌱 I’m currently learning HTML,CSS, MERN Stack.
 - 💞️ I’m looking to collaborate on web development
 - 📫 Reach me at sunitpani1998@gmail.com
 
